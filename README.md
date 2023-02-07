@@ -8,7 +8,7 @@
 <h1 align="center">Super Mario AI</h1>
 
 <p align="center">
-  <img src= "mariogif.gif" alt="MARIO GIF" />
+  <img src= "mario.gif" alt="MARIO GIF" />
 </p>
   <p align="center">
     Playing Super Mario Bros using Reinforcement Learning. gym-super-mario-bros library is used to provide an OpenAI Gym environment for Super Mario Bros.on The Nintendo Entertainment System (NES) using the nes-py emulator. Proximal Policy Gradient is chosen as the policy network for training the agent. 
